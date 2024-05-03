@@ -1,0 +1,12 @@
+CONVERT STATISTICS SUMMARY
+total number of observations: 63903
+selected number of observations: 16053
+fraction of observations with value 1:  0.63
+********
+unbalanced sample correction: 0.000
+
++++++
+RESULT:
+observations value 0: 5942
+observations value 1: 10023
+total number observations: 15965
