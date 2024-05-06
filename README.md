@@ -6,3 +6,7 @@ This respository contains all the data to run all four scenarios of land cover c
 - Scenario 2. SSP1
 - Scenario 3. SSP2/RCP4.5
 - Scenario 4. SSP5/RRCP8.5
+
+
+
+[![DOI](https://zenodo.org/badge/795516773.svg)](https://zenodo.org/doi/10.5281/zenodo.11122090)
